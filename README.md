@@ -36,5 +36,7 @@
 ## My Profile Repository:
 https://github.com/BrunoGondran2023?tab=repositories
 
+## My Github Stats repository
+https://github.com/BrunoGondran2023?tab=stars
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
